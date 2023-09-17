@@ -1,0 +1,1 @@
+Este trabalho tem como objetivo analisar o comportamento de alguns algoritmos e assim, classifica-los.
